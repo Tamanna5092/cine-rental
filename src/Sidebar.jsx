@@ -8,10 +8,10 @@ import watchLater from "./assets/icons/watchLater.svg";
 export default function Sidebar() {
   return (
     <aside>
-      <ul class="space-y-2">
+      <ul className="space-y-2">
         <li>
           <a
-            class="flex items-center space-x-2 px-5 py-3.5 rounded-lg bg-primary text-black"
+            className="flex items-center space-x-2 px-5 py-3.5 rounded-lg bg-primary text-black"
             href="#"
           >
             <img
@@ -25,7 +25,7 @@ export default function Sidebar() {
         </li>
         <li>
           <a
-            class="flex items-center space-x-2 px-5 py-3.5 rounded-lg"
+            className="flex items-center space-x-2 px-5 py-3.5 rounded-lg"
             href="#"
           >
             <img
@@ -39,7 +39,7 @@ export default function Sidebar() {
         </li>
         <li>
           <a
-            class="flex items-center space-x-2 px-5 py-3.5 rounded-lg"
+            className="flex items-center space-x-2 px-5 py-3.5 rounded-lg"
             href="#"
           >
             <img
@@ -53,7 +53,7 @@ export default function Sidebar() {
         </li>
         <li>
           <a
-            class="flex items-center space-x-2 px-5 py-3.5 rounded-lg"
+            className="flex items-center space-x-2 px-5 py-3.5 rounded-lg"
             href="#"
           >
             <img
@@ -67,7 +67,7 @@ export default function Sidebar() {
         </li>
         <li>
           <a
-            class="flex items-center space-x-2 px-5 py-3.5 rounded-lg"
+            className="flex items-center space-x-2 px-5 py-3.5 rounded-lg"
             href="#"
           >
             <img
